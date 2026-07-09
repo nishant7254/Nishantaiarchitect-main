@@ -36,7 +36,7 @@ Email Me 👉 ✉️ **nishant845423@gmail.com** For Collaboration/Project or An
 - Power BI, SQL, and Tableau Dashboards
 - Workflow Automation using N8N
 - AI Agents and Automation Systems
-- 📫 **How to reach me:*faham7106@gmail.com* 
+- 📫 **How to reach me:*nishant845423@gmail.com* 
 - 😄 **Pronouns:** faham Sir
 - ⚡ **Fun fact:**🤝 I’m looking to collaborate on AI, Machine Learning, Data Analytics, NLP, Computer Vision, Power BI, SQL, Tableau, and N8N Automation projects.
 ## 👋 About Me

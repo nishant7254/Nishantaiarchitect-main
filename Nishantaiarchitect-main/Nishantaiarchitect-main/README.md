@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Faham%20Tariq&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Intelligence%20Specialist%20%7C%20Automation%20Architect&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Ranjan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Intelligence%20Specialist%20%7C%20Automation%20Architect&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">

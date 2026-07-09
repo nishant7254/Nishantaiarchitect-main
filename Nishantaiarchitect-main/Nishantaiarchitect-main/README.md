@@ -186,12 +186,12 @@ class Nishant:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahamaiarchitect&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahamaiarchitect&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nishantaiarchitect&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishantaiarchitect&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahamaiarchitect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&layout=compact&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantaiarchitect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&layout=compact&langs_count=8" />
 
 </div>
 
@@ -200,7 +200,7 @@ class Nishant:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahamaiarchitect&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&area_color=00d9ff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishantaiarchitect&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&area_color=00d9ff" />
 
 </div>
 
@@ -211,9 +211,9 @@ class Nishant:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahamaiarchitect/fahamaiarchitect/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahamaiarchitect/fahamaiarchitect/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fahamaiarchitect/fahamaiarchitect/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishantaiarchitect/Nishantaiarchitect/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahamaiarchitect/Nishantaiarchitect/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fahamaiarchitect/Nishantaiarchitect/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -269,7 +269,7 @@ Then go to **Actions** tab → **Generate Snake** → **Run workflow** to trigge
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=fahamaiarchitect&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Nishantaiarchitect&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 
 </div>
 

@@ -20,10 +20,10 @@
 
 ---
 
-# 💫 Hi 👋, I'm Faham
+# 💫 Hi 👋, I'm Nishant
 **AI Engineer | Data Analyst | NLP & Computer Vision Enthusiast | N8N Automation Developer | Power BI • SQL • Tableau**
 
-Email Me 👉 ✉️ **faham7106@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **nishant845423@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** on:Business Intelligence Solutions Building, Data Insigits, Data Visulization, EDA, AI Agents, Intelligent Automation Systems with n8n, RAG Pipelines
 - 🌱 **I’m currently learning:**Data Insights , Data Visulization, Data Cleaning, EDA, Statics, Agentic AI, Multi-Agent Collaboration, Advanced Prompt Engineering, Production AI Systems, and Cloud-Native AI Deployments.
@@ -42,12 +42,12 @@ Email Me 👉 ✉️ **faham7106@gmail.com** For Collaboration/Project or Anythi
 ## 👋 About Me
 
 ```python
-class FahamKhan:
-    name       = "Muhammad Faham Tariq"
-    role       = "AI Engineer & Data Intelligence Specialist & AI Automation in N8N "
-    company    = "Digital Oasis Technologies"
-    experience = "2+ Years"
-    location   = "Pakistan 🇵🇰"
+class Nishant:
+    name       = "Nishant Ranjan"
+    role       = "Data Analyst & Data Intelligence Specialist & AI Automation in N8N "
+    company    = "Orbique Technologies"
+    experience = "Training"
+    location   = "Noida"
 
     focus = [
         "AI Agents & Multi-Agent Orchestration",
@@ -107,10 +107,10 @@ class FahamKhan:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faham-tariq-a0b53b409/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/faham234566)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Muhammadfa1624)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faham7106@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant015/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/inishantindia/?hl=en)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Niishantyadav)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishant845423@gmail.com)
 
 </div>
 
